@@ -26,7 +26,7 @@ require (
 	k8s.io/api v0.18.1
 	k8s.io/apimachinery v0.18.1
 	k8s.io/client-go v11.0.1-0.20190805182717-6502b5e7b1b5+incompatible
-	k8s.io/helm v2.16.10+incompatible
+	k8s.io/helm v2.16.12+incompatible
 	knative.dev/pkg v0.0.0-20200702222342-ea4d6e985ba0
 	sigs.k8s.io/yaml v1.2.0
 
